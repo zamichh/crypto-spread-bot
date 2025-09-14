@@ -2,8 +2,8 @@ import asyncio
 import aiohttp
 from aiogram import Bot, Dispatcher
 
-API_TOKEN = "PUT_YOUR_TOKEN_HERE"
-CHAT_ID = "PUT_YOUR_CHAT_ID_HERE"
+API_TOKEN = "8462385789:AAEVmK5T6AthaXaEx9ttPQj_tSjQ6Bla6Z8""
+CHAT_ID = "505722260"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
